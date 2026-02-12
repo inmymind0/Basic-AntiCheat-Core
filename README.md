@@ -1,6 +1,6 @@
 # AC Core (User-Mode Anti-Cheat Base)
 
-AC-Core is a modular, user-mode (Ring 3) anti-cheat framework written in C++. It is designed to demonstrate fundamental concepts of game security, including heuristic process scanning, window enumeration, module integrity checks (DLL injection detection), and hardware-based identification (HWID).
+AC Core is a modular, user-mode (Ring 3) anti-cheat framework written in C++. It is designed to demonstrate fundamental concepts of game security, including heuristic process scanning, window enumeration, module integrity checks (DLL injection detection), and hardware-based identification (HWID).
 
 **Disclaimer:** This project is intended for **educational purposes** to understand how basic detection vectors operate within the Windows environment. It provides a foundational structure but is **not** a production-ready solution against sophisticated threats.
 
